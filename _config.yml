@@ -16,16 +16,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:TU_CORREO@correo.com"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "TU_LINK_SCHOLAR"
+      url: "mailto:ivilaco@hotmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "TU_LINK_LINKEDIN"
+      url: "https://www.linkedin.com/in/ivonnelara/"
     - label: "X"
       icon: "fab fa-x-twitter"
-      url: "TU_LINK_X"
+      url: "https://x.com/Ivslaco"
 
 include:
   - _pages
