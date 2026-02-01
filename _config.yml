@@ -1,5 +1,5 @@
-title: "Ivonne Lara Cortés"
-description: "Economista interesada en desarrollo, conflicto y género"
+title: "Ivonne Lara-Cortés"
+description: ""
 url: "https://ivilaco.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -10,17 +10,17 @@ plugins:
 minimal_mistakes_skin: "default"
 
 author:
-  name   : "Ivonne Lara Cortés"
+  name   : "Ivonne Lara-Cortés"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Economist | Development • Conflict • Gender"
+  bio    : ""
   links:
-    - label: "Email"
+    - label: "ivilaco@hotmail.com"
       icon: "fas fa-envelope"
       url: "mailto:ivilaco@hotmail.com"
-    - label: "LinkedIn"
+    - label: "ivonnelara"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ivonnelara/"
-    - label: "X"
+    - label: "@Ivslaco"
       icon: "fab fa-x-twitter"
       url: "https://x.com/Ivslaco"
 
