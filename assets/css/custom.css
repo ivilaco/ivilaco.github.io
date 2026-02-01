@@ -1,0 +1,58 @@
+.home-wrap{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2.5rem 1.2rem;
+}
+
+.home-title{
+  text-align: center;
+  font-size: 2.2rem;
+  margin: 0 0 2rem 0;
+}
+
+.home-grid{
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.home-photo img{
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+  display: block;
+}
+
+.home-text{
+  font-size: 1.02rem;
+  line-height: 1.55;
+}
+
+.home-contact-title{
+  margin-top: 2.2rem;
+  font-size: 1.4rem;
+}
+
+.home-contact{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+.contact-item{
+  display: inline-flex;
+  gap: .45rem;
+  align-items: center;
+  text-decoration: none;
+}
+
+.contact-item i{
+  font-size: 1.05rem;
+}
+
+@media (max-width: 860px){
+  .home-grid{ grid-template-columns: 1fr; }
+  .home-title{ font-size: 1.9rem; }
+}
