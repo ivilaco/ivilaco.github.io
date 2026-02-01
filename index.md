@@ -3,10 +3,10 @@ layout: home-custom
 title: ""
 ---
 
-I am a pre-doctoral research fellow in the Development Impact Group (DECDI/DIME) at The World Bank. My research lies at the intersection of development economics, applied microeconomics and political economy. I use both quantitative and qualitative methods to explore complex issues related to conflict, gender, time use and development in Latin America, with a particular focus on non-state armed groups, organized crime and gender based violence.
+I am a pre-doctoral research fellow with the Development Impact Group (DECDI/DIME) at the World Bank. My research lies at the intersection of development economics, applied microeconomics, and political economy. I combine applied econometric and machine learning tools with qualitative insights to study development in fragile and conflict-affected settings, with particular interest in gender studies, time use, organized crime, and exposure to violence in Latin America.
 
-I hold an M.A. in Economics and a B.A. in Economics from Universidad del Rosario (URosario) in Colombia, where I also completed a second masters in Economy of Public Policies.
+I hold an M.A. in Economics and a B.A. in Economics from Universidad del Rosario (Colombia), where I also completed a second master’s degree in Public Policy Economics.
 
-I have also served as Research Fellow/Consultant for Universidad del Rosario, UCLA, Collegio Carlo Alberto, United Nations and the Secretary of Education in Bogota.
+Prior to joining the World Bank, I worked as a research fellow and consultant with academic institutions and international organizations, including Universidad del Rosario, UCLA, Collegio Carlo Alberto, the United Nations, and the Bogotá Secretary of Education.
 
-Outside of academia, I enjoy tennis, traveling, music and cinema.
+Outside academia, I enjoy tennis, traveling, music, and cinema.
