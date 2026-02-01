@@ -1,8 +1,9 @@
 ---
-layout: home
-author_profile: true
+layout: home-custom
+title: ""
 ---
 
-I am Ivonne Lara Cortés, an economist focused on development, conflict, and gender.
+I am a pre-doctoral research fellow focused on development, conflict, and gender. My work combines causal inference with field and administrative data in fragile and conflict-affected contexts, with a focus on Latin America and Sub-Saharan Africa.
 
-You can find my research, CV, and contact information in the menu above.
+I hold an M.A. in Economics and have worked on impact evaluations with international organizations.
+Outside academia, I enjoy photography, traveling, and endurance sports.
