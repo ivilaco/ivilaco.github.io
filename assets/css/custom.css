@@ -4,16 +4,18 @@
   padding: 2.5rem 1.2rem;
 }
 
-/* Force smaller text on the custom home (beats theme defaults) */
+/* ===== Typography (custom home) ===== */
+/* Set a base size for the whole custom home */
 .home-wrap{
-  font-size: 0.93rem !important;
-  line-height: 1.48 !important;
+  font-size: 13px !important;
+  line-height: 1.45 !important;
 }
 
+/* Ensure paragraphs + lists inherit the base size */
 .home-wrap p,
 .home-wrap li{
-  font-size: 0.93rem !important;
-  line-height: 1.48 !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
 }
 
 .home-title{
@@ -36,11 +38,12 @@
   display: block;
 }
 
-/* Keep this minimal; sizing is handled above */
+/* Text column */
 .home-text{
   width: 100%;
 }
 
+/* ===== Contact row ===== */
 .home-contact-title{
   margin-top: 2.2rem;
   font-size: 1.4rem;
@@ -58,36 +61,34 @@
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
-  text-decoration: none;
-  border-bottom: none;
+  text-decoration: none !important;
+  border-bottom: none !important;
+
+  /* make contact links neutral (not theme-blue) */
+  color: #222 !important;
 }
 
-.contact-item:hover{
-  text-decoration: underline;
-  text-underline-offset: 3px;
+.contact-item:visited{
+  color: #222 !important;
 }
 
 .contact-item i{
   font-size: 1.05rem;
+  color: #222 !important;
+}
+
+.contact-item:hover{
+  color: #111 !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
 }
 
 .contact-sep{
-  opacity: 0.35;
+  color: #999 !important;
+  opacity: 1 !important;
 }
 
 @media (max-width: 860px){
   .home-grid{ grid-template-columns: 1fr; }
   .home-title{ font-size: 1.9rem; }
-}
-
-.home-wrap .home-text{
-  font-size: 13px !important;
-  line-height: 1.45 !important;
-}
-
-.home-wrap .home-text p,
-.home-wrap .home-text li,
-.home-wrap .home-text span{
-  font-size: inherit !important;
-  line-height: inherit !important;
 }
