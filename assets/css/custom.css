@@ -8,6 +8,11 @@ body {
   padding: 2.5rem 1.2rem;
 }
 
+.home-wrap, .home-wrap p, .home-text, .home-text p {
+  font-size: 0.93rem !important;
+  line-height: 1.48 !important;
+}
+
 .home-title{
   text-align: center;
   font-size: 2.2rem;
