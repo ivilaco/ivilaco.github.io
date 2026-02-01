@@ -2,17 +2,28 @@
   max-width: 980px;
   margin: 0 auto;
   padding: 2.5rem 1.2rem;
-  line-height: 1.48;
 }
 
-/* ===== Title ===== */
+/* ===== Typography (custom home) ===== */
+/* Set a base size for the whole custom home */
+.home-wrap{
+  font-size: 13px !important;
+  line-height: 1.45 !important;
+}
+
+/* Ensure paragraphs + lists inherit the base size */
+.home-wrap p,
+.home-wrap li{
+  font-size: inherit !important;
+  line-height: inherit !important;
+}
+
 .home-title{
   text-align: center;
   font-size: 2.2rem;
   margin: 0 0 2rem 0;
 }
 
-/* ===== Layout ===== */
 .home-grid{
   display: grid;
   grid-template-columns: 360px 1fr;
@@ -30,15 +41,6 @@
 /* Text column */
 .home-text{
   width: 100%;
-}
-
-/* ===== Typography (THIS is the only place you change size) ===== */
-/* Applies to the actual rendered content from Minimal Mistakes */
-.home-text .page__content,
-.home-text .page__content p,
-.home-text .page__content li{
-  font-size: 0.92rem !important;   /* <- cambia aquí y SI se debe notar */
-  line-height: 1.48 !important;
 }
 
 /* ===== Contact row ===== */
@@ -61,6 +63,8 @@
   gap: 0.45rem;
   text-decoration: none !important;
   border-bottom: none !important;
+
+  /* make contact links neutral (not theme-blue) */
   color: #222 !important;
 }
 
@@ -80,4 +84,11 @@
 }
 
 .contact-sep{
-  color: #999 !importa
+  color: #999 !important;
+  opacity: 1 !important;
+}
+
+@media (max-width: 860px){
+  .home-grid{ grid-template-columns: 1fr; }
+  .home-title{ font-size: 1.9rem; }
+}
