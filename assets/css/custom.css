@@ -4,7 +4,14 @@
   padding: 2.5rem 1.2rem;
 }
 
-.home-wrap, .home-wrap p, .home-text, .home-text p {
+/* Force smaller text on the custom home (beats theme defaults) */
+.home-wrap{
+  font-size: 0.93rem !important;
+  line-height: 1.48 !important;
+}
+
+.home-wrap p,
+.home-wrap li{
   font-size: 0.93rem !important;
   line-height: 1.48 !important;
 }
@@ -29,9 +36,9 @@
   display: block;
 }
 
-.home-text {
-  font-size: 0.93rem;
-  line-height: 1.48;
+/* Keep this minimal; sizing is handled above */
+.home-text{
+  width: 100%;
 }
 
 .home-contact-title{
