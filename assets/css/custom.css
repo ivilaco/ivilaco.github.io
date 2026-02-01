@@ -94,3 +94,10 @@
   .home-grid{ grid-template-columns: 1fr; }
   .home-title{ font-size: 1.9rem; }
 }
+
+.home-wrap .page__content,
+.home-wrap .page__content p,
+.home-wrap .page__content li{
+  font-size: 0.95rem !important;   /* ← ajusta aquí */
+  line-height: 1.48 !important;
+}
