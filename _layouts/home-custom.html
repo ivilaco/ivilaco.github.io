@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home-wrap">
+  <h1 class="home-title">{{ site.title }}</h1>
+
+  <div class="home-grid">
+    <div class="home-photo">
+      <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    </div>
+
+    <div class="home-text">
+      {{ content }}
+    </div>
+  </div>
+
+  <h2 class="home-contact-title">Contact</h2>
+  <div class="home-contact">
+    {% for link in site.author.links %}
+      <a class="contact-item" href="{{ link.url }}" target="_blank" rel="noopener">
+        <i class="{{ link.icon }}"></i>
+        <span>{{ link.label }}</span>
+      </a>
+    {% endfor %}
+  </div>
+</div>
