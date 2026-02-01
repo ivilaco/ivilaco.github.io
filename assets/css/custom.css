@@ -37,7 +37,7 @@
 .home-text .page__content,
 .home-text .page__content p,
 .home-text .page__content li{
-  font-size: 0.95rem !important;   /* <- cambia aquí y SI se debe notar */
+  font-size: 0.92rem !important;   /* <- cambia aquí y SI se debe notar */
   line-height: 1.48 !important;
 }
 
