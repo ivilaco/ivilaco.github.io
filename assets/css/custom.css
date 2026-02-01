@@ -5,25 +5,33 @@
 }
 
 /* ===== Typography (custom home) ===== */
-/* Set a base size for the whole custom home */
+/* Do NOT lock font-size on the whole home */
 .home-wrap{
-  font-size: 13px !important;
-  line-height: 1.45 !important;
+  line-height: 1.48;
 }
 
-/* Ensure paragraphs + lists inherit the base size */
-.home-wrap p,
-.home-wrap li{
-  font-size: inherit !important;
-  line-height: inherit !important;
+/* Control font size ONLY in the right-hand text column */
+.home-text{
+  width: 100%;
+  font-size: 0.98rem;   /* ← cambia aquí: 0.95, 0.98, 1.0 */
+  line-height: 1.48;
 }
 
+/* Make sure text inherits cleanly */
+.home-text p,
+.home-text li{
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* ===== Title ===== */
 .home-title{
   text-align: center;
   font-size: 2.2rem;
   margin: 0 0 2rem 0;
 }
 
+/* ===== Layout ===== */
 .home-grid{
   display: grid;
   grid-template-columns: 360px 1fr;
@@ -36,11 +44,6 @@
   height: auto;
   border-radius: 2px;
   display: block;
-}
-
-/* Text column */
-.home-text{
-  width: 100%;
 }
 
 /* ===== Contact row ===== */
@@ -63,8 +66,6 @@
   gap: 0.45rem;
   text-decoration: none !important;
   border-bottom: none !important;
-
-  /* make contact links neutral (not theme-blue) */
   color: #222 !important;
 }
 
@@ -88,6 +89,7 @@
   opacity: 1 !important;
 }
 
+/* ===== Responsive ===== */
 @media (max-width: 860px){
   .home-grid{ grid-template-columns: 1fr; }
   .home-title{ font-size: 1.9rem; }
