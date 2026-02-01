@@ -15,13 +15,16 @@ layout: default
     </div>
   </div>
 
-  <h2 class="home-contact-title">Contact</h2>
-  <div class="home-contact">
-    {% for link in site.author.links %}
-      <a class="contact-item" href="{{ link.url }}" target="_blank" rel="noopener">
-        <i class="{{ link.icon }}"></i>
-        <span>{{ link.label }}</span>
-      </a>
-    {% endfor %}
-  </div>
+<h2 class="home-contact-title">Contact</h2>
+<div class="home-contact">
+  {% for link in site.author.links %}
+    <a class="contact-item" href="{{ link.url }}" target="_blank" rel="noopener">
+      <i class="{{ link.icon }}"></i>
+      <span>{{ link.label }}</span>
+    </a>
+    {% unless forloop.last %}
+      <span class="contact-sep">|</span>
+    {% endunless %}
+  {% endfor %}
 </div>
+
