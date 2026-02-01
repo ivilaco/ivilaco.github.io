@@ -46,7 +46,7 @@
 /* ===== Contact row ===== */
 .home-contact-title{
   margin-top: 2.2rem;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 .home-contact{
@@ -73,7 +73,7 @@
 }
 
 .contact-item i{
-  font-size: 1.05rem;
+  font-size: 1.2rem;
   color: #222 !important;
 }
 
@@ -90,5 +90,5 @@
 
 @media (max-width: 860px){
   .home-grid{ grid-template-columns: 1fr; }
-  .home-title{ font-size: 1.7rem; }
+  .home-title{ font-size: 1.9rem; }
 }
