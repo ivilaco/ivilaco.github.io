@@ -2,26 +2,7 @@
   max-width: 980px;
   margin: 0 auto;
   padding: 2.5rem 1.2rem;
-}
-
-/* ===== Typography (custom home) ===== */
-/* Do NOT lock font-size on the whole home */
-.home-wrap{
   line-height: 1.48;
-}
-
-/* Control font size ONLY in the right-hand text column */
-.home-text{
-  width: 100%;
-  font-size: 0.98rem;   /* ← cambia aquí: 0.95, 0.98, 1.0 */
-  line-height: 1.48;
-}
-
-/* Make sure text inherits cleanly */
-.home-text p,
-.home-text li{
-  font-size: inherit;
-  line-height: inherit;
 }
 
 /* ===== Title ===== */
@@ -44,6 +25,20 @@
   height: auto;
   border-radius: 2px;
   display: block;
+}
+
+/* Text column */
+.home-text{
+  width: 100%;
+}
+
+/* ===== Typography (THIS is the only place you change size) ===== */
+/* Applies to the actual rendered content from Minimal Mistakes */
+.home-text .page__content,
+.home-text .page__content p,
+.home-text .page__content li{
+  font-size: 0.95rem !important;   /* <- cambia aquí y SI se debe notar */
+  line-height: 1.48 !important;
 }
 
 /* ===== Contact row ===== */
@@ -85,19 +80,4 @@
 }
 
 .contact-sep{
-  color: #999 !important;
-  opacity: 1 !important;
-}
-
-/* ===== Responsive ===== */
-@media (max-width: 860px){
-  .home-grid{ grid-template-columns: 1fr; }
-  .home-title{ font-size: 1.9rem; }
-}
-
-.home-wrap .page__content,
-.home-wrap .page__content p,
-.home-wrap .page__content li{
-  font-size: 0.95rem !important;   /* ← ajusta aquí */
-  line-height: 1.48 !important;
-}
+  color: #999 !importa
