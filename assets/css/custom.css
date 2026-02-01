@@ -7,8 +7,8 @@
 /* ===== Typography (custom home) ===== */
 /* Set a base size for the whole custom home */
 .home-wrap{
-  font-size: 14px !important;
-  line-height: 1.48 !important;
+  font-size: 15px !important;
+  line-height: 1.5 !important;
 }
 
 /* Ensure paragraphs + lists inherit the base size */
