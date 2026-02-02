@@ -5,39 +5,25 @@ layout: single
 author_profile: true
 ---
 
-This page is a collection of books, films, and places that have shaped how I think, feel, and see the world outside of academia.
+This page is a collection of books, films and series that have shaped how I think, feel, and see the world outside of academia. Here you can find my all time favorites, works I return to, recommend often, or think about long after finishing.
 
 ---
 
-## Currently reading / watching
-A rotating list of things I’m currently enjoying or exploring.
-
 ### Books
-- **Book title** — one line on why you picked it up or what’s drawing you in.
-
-### Films & series
-- **Film / Series** — one line on the mood or what you like about it so far.
-
----
-
-## All-time favorites
-Works I return to, recommend often, or think about long after finishing.
-
-### Books
-- **Book title** — one line on why it stayed with you.
-- **Book title** — one line.
+- **The Art of Happiness**, by Dalai Lama XIV
+- **A Brief Hisotry of Time**, by Stephen W. Hawking
+- **Animal Farm**, by George Orwell
+- **A Tale of Two Cities**, by Chrales Dickens
+- **Cien años de soledad**, by Gabriel García Márquez
+- **El murmulo de las abejas**, by Sofía Segovia
 
 ### Films
-- **Film title** — one line.
-- **Film title** — one line.
+- **Inception** — Christopher Nolan
+- **Interstellar** — Christopher Nolan
+- **The Parent Trap (1998)** — Nancy Meyers (Disney movie)
+- **Inglourious Basterds** — Quentin Tarantino
 
----
-
-## Recently loved
-Things I discovered recently and really enjoyed, even if they’re not “all-time favorites (yet)”.
-
-### Books
-- **Book title** — one line.
-
-### Films & series
-- **Film / Series** — one line.
+### Series
+- **Avatar: The Last Airbender**
+- **Sherlock (2010)**
+- **Breaking Bad**
