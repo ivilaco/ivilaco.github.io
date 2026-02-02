@@ -18,6 +18,14 @@
   line-height: inherit !important;
 }
 
+/* ===== Justified text (body only) ===== */
+.home-wrap p,
+.page__content p{
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Keep headings centered / left as intended */
 .home-title{
   text-align: center;
   font-size: 2.2rem;
@@ -63,8 +71,6 @@
   gap: 0.45rem;
   text-decoration: none !important;
   border-bottom: none !important;
-
-  /* make contact links neutral (not theme-blue) */
   color: #222 !important;
 }
 
