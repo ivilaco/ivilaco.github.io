@@ -47,7 +47,7 @@ This page is a collection of books, films and series that have shaped how I thin
 <div class="favorites-item">
   <a href="https://www.goodreads.com/book/show/370523.Cien_a_os_de_soledad" target="_blank">
     <img src="/assets/images/favorites/books/b5.jpg" alt="Cien años de soledad">
-    <div class="favorites-title">Animal Farm</div>
+    <div class="favorites-title">Cien años de soledad</div>
     <div class="favorites-subtitle">Gabriel García Márquez</div>
   </a>
 </div>
