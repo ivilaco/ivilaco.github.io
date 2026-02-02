@@ -96,39 +96,29 @@
 /* ===== Favorites gallery ===== */
 .favorites-grid{
   display: grid;
-  grid-template-columns: repeat(6, 1fr); /* 6 items per row */
+  grid-template-columns: repeat(4, 1fr); /* force 4 columns */
   gap: 1.4rem;
   margin: 1.2rem 0 2.5rem 0;
 }
 
-/* Large laptops */
-@media (max-width: 1400px){
-  .favorites-grid{
-    grid-template-columns: repeat(5, 1fr);
-  }
-}
-
-/* Small laptops / tablets */
-@media (max-width: 1200px){
-  .favorites-grid{
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
-/* Tablets */
-@media (max-width: 900px){
+/* Responsive fallbacks */
+@media (max-width: 1100px){
   .favorites-grid{
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-/* Mobile */
-@media (max-width: 600px){
+@media (max-width: 800px){
   .favorites-grid{
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
+@media (max-width: 480px){
+  .favorites-grid{
+    grid-template-columns: 1fr;
+  }
+}
 
 .favorites-item{
   text-align: center;
