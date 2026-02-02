@@ -137,7 +137,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu" target="_blank">
-    <img src="/assets/images/favorites/films/a1.jpg" alt="AM">
+    <img src="/assets/images/favorites/music/a1.jpg" alt="AM">
     <div class="favorites-title">AM</div>
     <div class="favorites-subtitle">Arctic Monkeys</div>
   </a>
@@ -145,7 +145,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n" target="_blank">
-    <img src="/assets/images/favorites/films/a2.jpg" alt="HIT ME HARD AND SOFT">
+    <img src="/assets/images/favorites/music/a2.jpg" alt="HIT ME HARD AND SOFT">
     <div class="favorites-title">HIT ME HARD AND SOFT</div>
     <div class="favorites-subtitle">Billie Eilish</div>
   </a>
@@ -153,7 +153,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb" target="_blank">
-    <img src="/assets/images/favorites/films/a3.jpg" alt="DeBÍ TiEAR MáS FOToS">
+    <img src="/assets/images/favorites/music/a3.jpg" alt="DeBÍ TiEAR MáS FOToS">
     <div class="favorites-title">DeBÍ TiEAR MáS FOToS</div>
     <div class="favorites-subtitle">Bad Bunny</div>
   </a>
@@ -161,7 +161,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank">
-    <img src="/assets/images/favorites/films/a4.jpg" alt="Un Verano Sin Ti">
+    <img src="/assets/images/favorites/music/a4.jpg" alt="Un Verano Sin Ti">
     <div class="favorites-title">Un Verano Sin Ti</div>
     <div class="favorites-subtitle">Bad Bunny</div>
   </a>
@@ -169,7 +169,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil" target="_blank">
-    <img src="/assets/images/favorites/films/a5.jpg" alt="La Pista">
+    <img src="/assets/images/favorites/music/a5.jpg" alt="La Pista">
     <div class="favorites-title">La Pista</div>
     <div class="favorites-subtitle">Juliana</div>
   </a>
@@ -177,7 +177,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw" target="_blank">
-    <img src="/assets/images/favorites/films/a6.jpg" alt="eternal sunshine">
+    <img src="/assets/images/favorites/music/a6.jpg" alt="eternal sunshine">
     <div class="favorites-title">eternal sunshine</div>
     <div class="favorites-subtitle">Ariana Grande</div>
   </a>
@@ -185,7 +185,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL" target="_blank">
-    <img src="/assets/images/favorites/films/a7.jpg" alt="Doo-Wops & Hooligans">
+    <img src="/assets/images/favorites/music/a7.jpg" alt="Doo-Wops & Hooligans">
     <div class="favorites-title">Doo-Wops & Hooligans</div>
     <div class="favorites-subtitle">Bruno Mars</div>
   </a>
@@ -193,7 +193,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts" target="_blank">
-    <img src="/assets/images/favorites/films/a8.jpg" alt="SI AYER FUERA HOY">
+    <img src="/assets/images/favorites/music/a8.jpg" alt="SI AYER FUERA HOY">
     <div class="favorites-title">SI AYER FUERA HOY</div>
     <div class="favorites-subtitle">Morat</div>
   </a>
