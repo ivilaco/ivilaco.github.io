@@ -165,8 +165,8 @@
 
 /* ===== Smaller typography for Favorites page ===== */
 .favorites-page .page__content{
-  font-size: 14px;          /* prueba 13.5px si la quieres más compacta */
-  line-height: 1.45;
+  font-size: 13px;          /* prueba 13.5px si la quieres más compacta */
+  line-height: 1.5;
 }
 
 /* Ensure paragraphs inherit correctly */
