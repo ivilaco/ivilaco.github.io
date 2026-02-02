@@ -92,3 +92,48 @@
   .home-grid{ grid-template-columns: 1fr; }
   .home-title{ font-size: 1.9rem; }
 }
+
+/* ===== Favorites gallery ===== */
+.favorites-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1.4rem;
+  margin: 1.2rem 0 2.5rem 0;
+}
+
+.favorites-item{
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.favorites-item img{
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.favorites-item img:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+.favorites-item a{
+  text-decoration: none;
+  color: #222;
+}
+
+.favorites-item a:hover{
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.favorites-title{
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.favorites-subtitle{
+  font-size: 0.85rem;
+  color: #666;
+}
