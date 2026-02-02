@@ -144,10 +144,10 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n" target="_blank">
-    <img src="/assets/images/favorites/music/a2.jpg" alt="HIT ME HARD AND SOFT">
-    <div class="favorites-title">HIT ME HARD AND SOFT</div>
-    <div class="favorites-subtitle">Billie Eilish</div>
+  <a href="https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A" target="_blank">
+    <img src="/assets/images/favorites/music/a9.jpg" alt="Brand New Eyes">
+    <div class="favorites-title">Brand New Eyes</div>
+    <div class="favorites-subtitle">Paramore</div>
   </a>
 </div>
 
@@ -160,18 +160,10 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank">
-    <img src="/assets/images/favorites/music/a4.jpg" alt="Un Verano Sin Ti">
-    <div class="favorites-title">Un Verano Sin Ti</div>
-    <div class="favorites-subtitle">Bad Bunny</div>
-  </a>
-</div>
-
-<div class="favorites-item">
-  <a href="https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil" target="_blank">
-    <img src="/assets/images/favorites/music/a5.jpg" alt="La Pista">
-    <div class="favorites-title">La Pista</div>
-    <div class="favorites-subtitle">Juliana</div>
+  <a href="https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL" target="_blank">
+    <img src="/assets/images/favorites/music/a7.jpg" alt="Doo-Wops & Hooligans">
+    <div class="favorites-title">Doo-Wops & Hooligans</div>
+    <div class="favorites-subtitle">Bruno Mars</div>
   </a>
 </div>
 
@@ -184,10 +176,18 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL" target="_blank">
-    <img src="/assets/images/favorites/music/a7.jpg" alt="Doo-Wops & Hooligans">
-    <div class="favorites-title">Doo-Wops & Hooligans</div>
-    <div class="favorites-subtitle">Bruno Mars</div>
+  <a href="https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n" target="_blank">
+    <img src="/assets/images/favorites/music/a2.jpg" alt="HIT ME HARD AND SOFT">
+    <div class="favorites-title">HIT ME HARD AND SOFT</div>
+    <div class="favorites-subtitle">Billie Eilish</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil" target="_blank">
+    <img src="/assets/images/favorites/music/a5.jpg" alt="La Pista">
+    <div class="favorites-title">La Pista</div>
+    <div class="favorites-subtitle">Juliana</div>
   </a>
 </div>
 
@@ -196,6 +196,14 @@ This page is a collection of books, films, series and music that have shaped how
     <img src="/assets/images/favorites/music/a8.jpg" alt="SI AYER FUERA HOY">
     <div class="favorites-title">SI AYER FUERA HOY</div>
     <div class="favorites-subtitle">Morat</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5" target="_blank">
+    <img src="/assets/images/favorites/music/a4.jpg" alt="Un Verano Sin Ti">
+    <div class="favorites-title">Un Verano Sin Ti</div>
+    <div class="favorites-subtitle">Bad Bunny</div>
   </a>
 </div>
 
