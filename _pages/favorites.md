@@ -176,6 +176,14 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu" target="_blank">
+    <img src="/assets/images/favorites/music/a10.jpg" alt="GUTS (Spilled)">
+    <div class="favorites-title">GUTS (Spilled)</div>
+    <div class="favorites-subtitle">Olivia Rodrigo</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n" target="_blank">
     <img src="/assets/images/favorites/music/a2.jpg" alt="HIT ME HARD AND SOFT">
     <div class="favorites-title">HIT ME HARD AND SOFT</div>
@@ -188,6 +196,22 @@ This page is a collection of books, films, series and music that have shaped how
     <img src="/assets/images/favorites/music/a5.jpg" alt="La Pista">
     <div class="favorites-title">La Pista</div>
     <div class="favorites-subtitle">Juliana</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd" target="_blank">
+    <img src="/assets/images/favorites/music/a12.jpg" alt="Positions">
+    <div class="favorites-title">Positions</div>
+    <div class="favorites-subtitle">Ariana Grande</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v" target="_blank">
+    <img src="/assets/images/favorites/music/a11.jpg" alt="Palo Santo">
+    <div class="favorites-title">Palo Santo</div>
+    <div class="favorites-subtitle">Years & Years</div>
   </a>
 </div>
 
