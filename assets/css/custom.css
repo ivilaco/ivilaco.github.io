@@ -162,3 +162,25 @@
   font-size: 0.85rem;
   color: #666;
 }
+
+/* ===== Smaller typography for Favorites page ===== */
+.favorites-page .page__content{
+  font-size: 14px;          /* prueba 13.5px si la quieres más compacta */
+  line-height: 1.45;
+}
+
+/* Ensure paragraphs inherit correctly */
+.favorites-page .page__content p,
+.favorites-page .page__content li{
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Slightly smaller titles under covers */
+.favorites-page .favorites-title{
+  font-size: 0.85rem;
+}
+
+.favorites-page .favorites-subtitle{
+  font-size: 0.8rem;
+}
