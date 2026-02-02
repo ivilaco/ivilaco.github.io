@@ -3,6 +3,7 @@ title: "Favorites"
 permalink: /favorites/
 layout: single
 author_profile: true
+classes: wide
 ---
 
 This page is a collection of books, films and series that have shaped how I think, feel, and see the world outside of academia. Here you can find my all time favorites, works I return to, recommend often, or think about long after finishing.
