@@ -129,6 +129,20 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt0108778/" target="_blank">
+    <img src="/assets/images/favorites/series/s7.jpg" alt="Friends">
+    <div class="favorites-title">Friends</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt0944947/" target="_blank">
+    <img src="/assets/images/favorites/series/s8.jpg" alt="Game of Thrones">
+    <div class="favorites-title">Game of Thrones</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt1442437/" target="_blank">
     <img src="/assets/images/favorites/series/s4.jpg" alt="Modern Family">
     <div class="favorites-title">Modern Family</div>
