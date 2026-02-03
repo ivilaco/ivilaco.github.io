@@ -115,9 +115,9 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt1475582/" target="_blank">
-    <img src="/assets/images/favorites/series/s2.jpg" alt="Sherlock">
-    <div class="favorites-title">Sherlock</div>
+  <a href="https://www.imdb.com/fr/title/tt11126994/" target="_blank">
+    <img src="/assets/images/favorites/series/s5.jpg" alt="Arcane">
+    <div class="favorites-title">Arcane</div>
   </a>
 </div>
 
@@ -125,6 +125,27 @@ This page is a collection of books, films, series and music that have shaped how
   <a href="https://www.imdb.com/title/tt0903747/" target="_blank">
     <img src="/assets/images/favorites/series/s3.jpg" alt="Breaking Bad">
     <div class="favorites-title">Breaking Bad</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt1442437/" target="_blank">
+    <img src="/assets/images/favorites/series/s4.jpg" alt="Modern Family">
+    <div class="favorites-title">Modern Family</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/title/tt1475582/" target="_blank">
+    <img src="/assets/images/favorites/series/s2.jpg" alt="Sherlock">
+    <div class="favorites-title">Sherlock</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt3581920/" target="_blank">
+    <img src="/assets/images/favorites/series/s6.jpg" alt="The Last of Us">
+    <div class="favorites-title">The Last of Us</div>
   </a>
 </div>
 
