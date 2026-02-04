@@ -154,12 +154,12 @@
 }
 
 .favorites-title{
-  margin-top: 0.5rem;
+  margin-top: 0.6rem;
   font-weight: 600;
 }
 
 .favorites-subtitle{
-  font-size: 0.3rem;
+  font-size: 0.4rem;
   color: #666;
 }
 
@@ -178,9 +178,9 @@
 
 /* Slightly smaller titles under covers */
 .favorites-page .favorites-title{
-  font-size: 0.5rem;
+  font-size: 0.6rem;
 }
 
 .favorites-page .favorites-subtitle{
-  font-size: 0.3rem;
+  font-size: 0.4rem;
 }
