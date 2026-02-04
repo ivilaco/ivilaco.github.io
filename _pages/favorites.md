@@ -188,7 +188,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb" target="_blank">
-    <img src="/assets/images/favorites/music/a3.jpg" alt="DeBÍ TiEAR MáS FOToS">
+    <img src="/assets/images/favorites/music/a3.jpg" alt="DeBÍ TiRAR MáS FOToS">
     <div class="favorites-title">DeBÍ TiEAR MáS FOToS</div>
     <div class="favorites-subtitle">Bad Bunny</div>
   </a>
