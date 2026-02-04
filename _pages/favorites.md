@@ -102,7 +102,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt0398286/" target="_blank">
-    <img src="/assets/images/favorites/films/f4.jpg" alt="Tangled">
+    <img src="/assets/images/favorites/films/f5.jpg" alt="Tangled">
     <div class="favorites-title">Tangled</div>
     <div class="favorites-subtitle">Nathan Greno, Byron Howard</div>
   </a>
