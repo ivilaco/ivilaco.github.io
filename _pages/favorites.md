@@ -55,8 +55,8 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets" target="_blank">
-    <img src="/assets/images/favorites/books/b7.jpg" alt="Harry Potter Saga">
-    <div class="favorites-title">Harry Potter Saga</div>
+    <img src="/assets/images/favorites/books/b7.jpg" alt="Harry Potter (Saga)">
+    <div class="favorites-title">Harry Potter (Saga)</div>
     <div class="favorites-subtitle">J.K. Rowling</div>
   </a>
 </div>
