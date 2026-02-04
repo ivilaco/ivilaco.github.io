@@ -14,14 +14,6 @@ This page is a collection of books, films, series and music that have shaped how
 <div class="favorites-grid">
 
 <div class="favorites-item">
-  <a href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness" target="_blank">
-    <img src="/assets/images/favorites/books/b1.jpg" alt="The Art of Happiness">
-    <div class="favorites-title">The Art of Happiness</div>
-    <div class="favorites-subtitle">Dalai Lama XIV</div>
-  </a>
-</div>
-
-<div class="favorites-item">
   <a href="https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time" target="_blank">
     <img src="/assets/images/favorites/books/b2.jpg" alt="A Brief History of Time">
     <div class="favorites-title">A Brief History of Time</div>
@@ -30,18 +22,18 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.goodreads.com/book/show/170448.Animal_Farm" target="_blank">
-    <img src="/assets/images/favorites/books/b3.jpg" alt="Animal Farm">
-    <div class="favorites-title">Animal Farm</div>
-    <div class="favorites-subtitle">George Orwell</div>
-  </a>
-</div>
-
-<div class="favorites-item">
   <a href="https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities" target="_blank">
     <img src="/assets/images/favorites/books/b4.jpg" alt="A Tale of Two Cities">
     <div class="favorites-title">A Tale of Two Cities</div>
     <div class="favorites-subtitle">Charles Dickens</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.goodreads.com/book/show/170448.Animal_Farm" target="_blank">
+    <img src="/assets/images/favorites/books/b3.jpg" alt="Animal Farm">
+    <div class="favorites-title">Animal Farm</div>
+    <div class="favorites-subtitle">George Orwell</div>
   </a>
 </div>
 
@@ -61,6 +53,14 @@ This page is a collection of books, films, series and music that have shaped how
   </a>
 </div>
 
+<div class="favorites-item">
+  <a href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness" target="_blank">
+    <img src="/assets/images/favorites/books/b1.jpg" alt="The Art of Happiness">
+    <div class="favorites-title">The Art of Happiness</div>
+    <div class="favorites-subtitle">Dalai Lama XIV</div>
+  </a>
+</div>
+
 </div>
 
 ---
@@ -69,10 +69,26 @@ This page is a collection of books, films, series and music that have shaped how
 <div class="favorites-grid">
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt3104988/" target="_blank">
+    <img src="/assets/images/favorites/films/f6.jpg" alt="Crazy Rich Asians">
+    <div class="favorites-title">Crazy Rich Asians</div>
+    <div class="favorites-subtitle">Jon M. Chu</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/title/tt1375666/" target="_blank">
     <img src="/assets/images/favorites/films/f1.jpg" alt="Inception">
     <div class="favorites-title">Inception</div>
     <div class="favorites-subtitle">Christopher Nolan</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/title/tt0361748/" target="_blank">
+    <img src="/assets/images/favorites/films/f4.jpg" alt="Inglourious Basterds">
+    <div class="favorites-title">Inglourious Basterds</div>
+    <div class="favorites-subtitle">Quentin Tarantino</div>
   </a>
 </div>
 
@@ -85,18 +101,18 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt0120783/" target="_blank">
-    <img src="/assets/images/favorites/films/f3.jpg" alt="The Parent Trap (1998)">
-    <div class="favorites-title">The Parent Trap (1998)</div>
-    <div class="favorites-subtitle">Nancy Meyers</div>
+  <a href="https://www.imdb.com/fr/title/tt0398286/" target="_blank">
+    <img src="/assets/images/favorites/films/f4.jpg" alt="Tangled">
+    <div class="favorites-title">Tangled</div>
+    <div class="favorites-subtitle">Nathan Greno, Byron Howard</div>
   </a>
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt0361748/" target="_blank">
-    <img src="/assets/images/favorites/films/f4.jpg" alt="Inglourious Basterds">
-    <div class="favorites-title">Inglourious Basterds</div>
-    <div class="favorites-subtitle">Quentin Tarantino</div>
+  <a href="https://www.imdb.com/title/tt0120783/" target="_blank">
+    <img src="/assets/images/favorites/films/f3.jpg" alt="The Parent Trap (1998)">
+    <div class="favorites-title">The Parent Trap (1998)</div>
+    <div class="favorites-subtitle">Nancy Meyers</div>
   </a>
 </div>
 
@@ -108,9 +124,9 @@ This page is a collection of books, films, series and music that have shaped how
 <div class="favorites-grid">
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt0417299/" target="_blank">
-    <img src="/assets/images/favorites/series/s1.jpg" alt="Avatar The Last Airbender">
-    <div class="favorites-title">Avatar: The Last Airbender</div>
+  <a href="https://www.imdb.com/fr/title/tt5421602/" target="_blank">
+    <img src="/assets/images/favorites/series/s9.jpg" alt="Anne With an E">
+    <div class="favorites-title">Anne With an E</div>
   </a>
 </div>
 
@@ -118,6 +134,13 @@ This page is a collection of books, films, series and music that have shaped how
   <a href="https://www.imdb.com/fr/title/tt11126994/" target="_blank">
     <img src="/assets/images/favorites/series/s5.jpg" alt="Arcane">
     <div class="favorites-title">Arcane</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/title/tt0417299/" target="_blank">
+    <img src="/assets/images/favorites/series/s1.jpg" alt="Avatar The Last Airbender">
+    <div class="favorites-title">Avatar: The Last Airbender</div>
   </a>
 </div>
 
@@ -146,13 +169,6 @@ This page is a collection of books, films, series and music that have shaped how
   <a href="https://www.imdb.com/fr/title/tt1442437/" target="_blank">
     <img src="/assets/images/favorites/series/s4.jpg" alt="Modern Family">
     <div class="favorites-title">Modern Family</div>
-  </a>
-</div>
-
-<div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt1475582/" target="_blank">
-    <img src="/assets/images/favorites/series/s2.jpg" alt="Sherlock">
-    <div class="favorites-title">Sherlock</div>
   </a>
 </div>
 
