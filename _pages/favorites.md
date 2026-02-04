@@ -124,6 +124,13 @@ This page is a collection of books, films, series and music that have shaped how
 <div class="favorites-grid">
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt5421602/" target="_blank">
+    <img src="/assets/images/favorites/series/s9.jpg" alt="Anne With an E">
+    <div class="favorites-title">Anne With an E</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt11126994/" target="_blank">
     <img src="/assets/images/favorites/series/s5.jpg" alt="Arcane">
     <div class="favorites-title">Arcane</div>
@@ -145,6 +152,13 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt9335498/" target="_blank">
+    <img src="/assets/images/favorites/series/s11.jpg" alt="Demon Slayer: Kimetsu no Yaiba">
+    <div class="favorites-title">Demon Slayer: Kimetsu no Yaiba</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt0108778/" target="_blank">
     <img src="/assets/images/favorites/series/s7.jpg" alt="Friends">
     <div class="favorites-title">Friends</div>
@@ -159,9 +173,23 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt9561862/" target="_blank">
+    <img src="/assets/images/favorites/series/s10.jpg" alt="Love, Death & Robots">
+    <div class="favorites-title">Love, Death & Robots</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt1442437/" target="_blank">
     <img src="/assets/images/favorites/series/s4.jpg" alt="Modern Family">
     <div class="favorites-title">Modern Family</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.imdb.com/fr/title/tt10062292/" target="_blank">
+    <img src="/assets/images/favorites/series/s12.jpg" alt="Never Have I Ever">
+    <div class="favorites-title">Never Have I Ever</div>
   </a>
 </div>
 
