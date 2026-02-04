@@ -54,10 +54,34 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets" target="_blank">
+    <img src="/assets/images/favorites/books/b7.jpg" alt="Harry Potter Saga">
+    <div class="favorites-title">Harry Potter Saga</div>
+    <div class="favorites-subtitle">J.K. Rowling</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.goodreads.com/book/show/38210.The_Art_of_Happiness" target="_blank">
     <img src="/assets/images/favorites/books/b1.jpg" alt="The Art of Happiness">
     <div class="favorites-title">The Art of Happiness</div>
     <div class="favorites-subtitle">Dalai Lama XIV</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.goodreads.com/book/show/19063.The_Book_Thief" target="_blank">
+    <img src="/assets/images/favorites/books/b9.jpg" alt="The Book Thief">
+    <div class="favorites-title">The Book Thief</div>
+    <div class="favorites-subtitle">Markus Zusak</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://www.goodreads.com/book/show/7171637-clockwork-angel" target="_blank">
+    <img src="/assets/images/favorites/books/b8.jpg" alt="The Infernal Devices (Saga)">
+    <div class="favorites-title">The Infernal Devices (Saga)</div>
+    <div class="favorites-subtitle">Cassandra Clare</div>
   </a>
 </div>
 
