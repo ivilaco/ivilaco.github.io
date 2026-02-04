@@ -266,4 +266,20 @@ This page is a collection of books, films, series and music that have shaped how
   </a>
 </div>
 
+<div class="favorites-item">
+  <a href="https://open.spotify.com/intl-fr/album/4KXLjIEas8MTwwX3xpmAdC" target="_blank">
+    <img src="/assets/images/favorites/music/a14.jpg" alt="V (Deluxe)">
+    <div class="favorites-title">V (Deluxe)</div>
+    <div class="favorites-subtitle">Maroon 5</div>
+  </a>
+</div>
+
+<div class="favorites-item">
+  <a href="https://open.spotify.com/intl-fr/album/50Zz8CkIhATKUlQMbHO3k1" target="_blank">
+    <img src="/assets/images/favorites/music/a13.jpg" alt="Whatever People Say I Am, That's What I'm Not">
+    <div class="favorites-title">Whatever People Say I Am, That's What I'm Not</div>
+    <div class="favorites-subtitle">Arctic Monkeys</div>
+  </a>
+</div>
+
 </div>
