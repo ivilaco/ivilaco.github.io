@@ -8,4 +8,4 @@ I hold an M.A. in Economics and a B.A. in Economics from Universidad del Rosario
 
 Prior to joining UCLA, I worked as a pre-doctoral research fellow with the Development Impact Group (DECDI/DIME) at the World Bank. I have also worked as a research fellow and consultant with academic institutions and international organizations, including Universidad del Rosario, Collegio Carlo Alberto, the United Nations, and the Bogotá Secretary of Education.
 
-Outside academia, I enjoy playing and watching sports (especially tennis), traveling to experience new cultures, good food, and the art of great storytelling (through music, books, and the screen).
+Outside academia, I enjoy playing and watching sports (especially tennis), traveling to experience new cultures, good food, and the art of great storytelling (through music, literature, and the screen).
