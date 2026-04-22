@@ -190,16 +190,16 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/fr/title/tt0944947/" target="_blank">
-    <img src="/assets/images/favorites/series/s8.jpg" alt="Game of Thrones">
-    <div class="favorites-title">Game of Thrones</div>
+  <a href="https://www.imdb.com/fr/title/tt1355642/" target="_blank">
+    <img src="/assets/images/favorites/series/s10.jpg" alt="Fullmetal Alchemist: Brotherhood">
+    <div class="favorites-title">Fullmetal Alchemist: Brotherhood</div>
   </a>
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/fr/title/tt1355642/" target="_blank">
-    <img src="/assets/images/favorites/series/s10.jpg" alt="Fullmetal Alchemist: Brotherhood">
-    <div class="favorites-title">Fullmetal Alchemist: Brotherhood</div>
+  <a href="https://www.imdb.com/fr/title/tt0944947/" target="_blank">
+    <img src="/assets/images/favorites/series/s8.jpg" alt="Game of Thrones">
+    <div class="favorites-title">Game of Thrones</div>
   </a>
 </div>
 
