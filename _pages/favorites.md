@@ -148,6 +148,13 @@ This page is a collection of books, films, series and music that have shaped how
 <div class="favorites-grid">
 
 <div class="favorites-item">
+  <a href="https://www.imdb.com/title/tt0417299/" target="_blank">
+    <img src="/assets/images/favorites/series/s1.jpg" alt="Avatar The Last Airbender">
+    <div class="favorites-title">Avatar: The Last Airbender</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://www.imdb.com/fr/title/tt5421602/" target="_blank">
     <img src="/assets/images/favorites/series/s9.jpg" alt="Anne With an E">
     <div class="favorites-title">Anne With an E</div>
@@ -158,13 +165,6 @@ This page is a collection of books, films, series and music that have shaped how
   <a href="https://www.imdb.com/fr/title/tt11126994/" target="_blank">
     <img src="/assets/images/favorites/series/s5.jpg" alt="Arcane">
     <div class="favorites-title">Arcane</div>
-  </a>
-</div>
-
-<div class="favorites-item">
-  <a href="https://www.imdb.com/title/tt0417299/" target="_blank">
-    <img src="/assets/images/favorites/series/s1.jpg" alt="Avatar The Last Airbender">
-    <div class="favorites-title">Avatar: The Last Airbender</div>
   </a>
 </div>
 
@@ -197,9 +197,9 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
-  <a href="https://www.imdb.com/fr/title/tt9561862/" target="_blank">
-    <img src="/assets/images/favorites/series/s10.jpg" alt="Love, Death & Robots">
-    <div class="favorites-title">Love, Death & Robots</div>
+  <a href="https://www.imdb.com/fr/title/tt1355642/" target="_blank">
+    <img src="/assets/images/favorites/series/s10.jpg" alt="Fullmetal Alchemist: Brotherhood">
+    <div class="favorites-title">Fullmetal Alchemist: Brotherhood</div>
   </a>
 </div>
 
