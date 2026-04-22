@@ -44,6 +44,8 @@
   height: auto;
   border-radius: 2px;
   display: block;
+  position: sticky;
+  top: 2.5rem;
 }
 
 /* Text column */
