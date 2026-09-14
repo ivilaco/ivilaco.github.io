@@ -247,6 +247,14 @@ This page is a collection of books, films, series and music that have shaped how
 </div>
 
 <div class="favorites-item">
+  <a href="https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h" target="_blank">
+    <img src="/assets/images/favorites/music/a14.jpg" alt="ARIRANG">
+    <div class="favorites-title">ARIRANG</div>
+    <div class="favorites-subtitle">BTS</div>
+  </a>
+</div>
+
+<div class="favorites-item">
   <a href="https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A" target="_blank">
     <img src="/assets/images/favorites/music/a9.jpg" alt="Brand New Eyes">
     <div class="favorites-title">Brand New Eyes</div>
