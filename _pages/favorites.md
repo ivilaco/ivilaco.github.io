@@ -344,7 +344,7 @@ This page is a collection of books, films, series and music that have shaped how
 
 <div class="favorites-item">
   <a href="https://open.spotify.com/intl-fr/album/4KXLjIEas8MTwwX3xpmAdC" target="_blank">
-    <img src="/assets/images/favorites/music/a14.jpg" alt="V (Deluxe)">
+    <img src="/assets/images/favorites/music/a15.jpg" alt="V (Deluxe)">
     <div class="favorites-title">V (Deluxe)</div>
     <div class="favorites-subtitle">Maroon 5</div>
   </a>
